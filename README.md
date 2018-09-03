@@ -2,7 +2,7 @@
 Project Requirement 
 IDE : Eclipse
 Server : Jboss EAP 6.1 or JBoss AS 7.1.1
-atabase : Mysql
+Database : Mysql
 
 Project Installation
 import project in eclipse and create database using emsdatabase.sql script. 
